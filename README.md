@@ -19,7 +19,8 @@ Los resultados obtenidos pueden ser utilizados para:
     * Ofrecer recomendaciones personalizadas.
 * **Entender las preferencias de los consumidores:**
     * Analizar el sentimiento en las reseñas.
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
+      
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------       
 
 
 ## Etapas del Proyecto
@@ -61,6 +62,9 @@ Los resultados obtenidos pueden ser utilizados para:
 
 * **Recomendación Basada en Contenido**:
     * Generación de recomendaciones basadas en características como variedad, país, etc.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 * **Recomendación Colaborativa**:
