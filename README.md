@@ -14,7 +14,7 @@ El objetivo principal de este proyecto es:
 Los resultados obtenidos pueden ser utilizados para:
 
 * **Descripcion de la oferta en vinos del mercado:**
-    * Descubrir valoracion de los clientes por precio calidad.
+    * Descubrir valoracion de los clientes por precio / calidad.
 * **Mejorar la experiencia del usuario:**
     * Ofrecer recomendaciones personalizadas.
 * **Entender las preferencias de los consumidores:**
